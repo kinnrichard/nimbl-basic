@@ -1,0 +1,18 @@
+{
+  "name": "test-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@Fx-Professional-Services/nimbl": "^0.0.8",
+    "lit": "^3.3.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
